@@ -16,7 +16,7 @@ O projeto Carcará visa auxiliar discentes, servidores e docentes do IFPE Campus
 # Colaboradores
 * [Anderson José](https://github.com/Andersonjs99)
 * [Daniel Honorato](https://github.com/DH-97)
-* [Emily Maria](https://github.com/SongMingi95)
+* [Emilly Maria](https://github.com/SongMingi95)
 * [Emanuel Victor](https://github.com/EMANUEBRIT)
 * [Felipe Rafael](https://github.com/felipeknk)
 * [Filipe Luiz](https://github.com/luke96neto)
